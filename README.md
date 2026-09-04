@@ -1,10 +1,8 @@
-# Dedicated Server Room Buildout
+# Dedicated Server Room Buildout & Production Infrastructure Deployment
 
 **Concept to production in approximately three months**
 
-A workplace infrastructure project that transformed an unused office closet into a dedicated server room supporting production compute, storage, networking, and security infrastructure.
-
-The finished environment includes dedicated cooling, static-safe flooring, rack-mounted infrastructure, structured power distribution, organized cabling, centralized storage, and production server hardware.
+A workplace infrastructure project that transformed an unused office closet into a dedicated production server room with environmental controls, static-safe flooring, rack-mounted compute and storage, network security, structured power distribution, and organized cabling.
 
 ---
 
@@ -17,10 +15,10 @@ The finished environment includes dedicated cooling, static-safe flooring, rack-
 </tr>
 <tr>
 <td width="50%">
-<img src="images/before-empty-room.jpg" alt="Empty office closet before server room buildout" width="100%">
+<img src="images/01-before-empty-closet.jpg" alt="Empty office closet before server room buildout" width="100%">
 </td>
 <td width="50%">
-<img src="images/after-production-rack.jpg" alt="Completed production server room" width="100%">
+<img src="images/13-production-environment.jpg" alt="Completed production server room" width="100%">
 </td>
 </tr>
 </table>
@@ -29,13 +27,13 @@ The finished environment includes dedicated cooling, static-safe flooring, rack-
 
 ## Project Overview
 
-The organization needed a dedicated location for growing server, storage, and network infrastructure.
+The organization needed a dedicated location for growing server, storage, network, and security infrastructure.
 
-The available space was originally a small office closet with standard carpet, no equipment rack, and no infrastructure designed specifically for continuous IT operation.
+The available space was originally a small office closet with standard carpet, no equipment rack, and no physical environment designed for continuous IT operation.
 
-I led the project from initial concept through room planning, infrastructure preparation, rack deployment, hardware installation, network integration, testing, and final production use.
+Over approximately three months, I took the project from concept through room preparation, environmental-control integration, rack deployment, hardware installation, network integration, validation, and production use.
 
-The project took approximately three months from concept to production.
+The result was a centralized infrastructure environment designed around maintainability, service access, thermal control, static mitigation, and future expansion.
 
 ---
 
@@ -45,23 +43,24 @@ The original room was general office space rather than an IT equipment environme
 
 Key requirements included:
 
-- Creating a dedicated location for production infrastructure
-- Replacing standard carpet with a more appropriate static-control surface
-- Adding dedicated environmental cooling
-- Planning rack placement within a constrained room
-- Establishing structured power distribution
-- Designing serviceable network and power cable paths
-- Providing front and rear access to equipment
-- Consolidating server, storage, networking, and security hardware
-- Leaving room for future growth
+- Converting an unused closet into dedicated infrastructure space
+- Removing standard carpet
+- Providing dedicated cooling
+- Introducing a static-safe floor system
+- Planning a full-height rack within a constrained room
+- Establishing structured rack power
+- Creating serviceable network and power cable paths
+- Providing front and rear equipment access
+- Centralizing compute, storage, networking, and security hardware
+- Preserving capacity for future growth
 
-The goal was not simply to install a rack. The room needed to function as a maintainable production infrastructure environment.
+The goal was not simply to install equipment in a closet. The room needed to become a maintainable production infrastructure environment.
 
 ---
 
 ## My Role
 
-I was responsible for taking the server-room project from concept through production deployment.
+I was responsible for taking the project from initial concept through production deployment.
 
 My work included:
 
@@ -69,9 +68,9 @@ My work included:
 - Defining infrastructure requirements
 - Planning the physical room layout
 - Coordinating room preparation
-- Planning rack placement and rack-unit usage
+- Planning rack placement and rack-unit utilization
 - Integrating dedicated environmental controls
-- Incorporating static-control flooring
+- Incorporating static-control flooring and grounding provisions
 - Deploying and organizing the equipment rack
 - Installing server and storage hardware
 - Integrating network and security equipment
@@ -84,131 +83,141 @@ This project combined infrastructure planning, systems administration, networkin
 
 ---
 
-## Build Process
+# Build Process
 
-### Phase 1 — Space Assessment
+The images below are presented in project sequence.
+
+## Phase 1 — Original Space Assessment
 
 The project began with an unused office closet.
 
-<img src="images/before-empty-room.jpg" alt="Original empty office closet" width="700">
+<img src="images/01-before-empty-closet.jpg" alt="Original office closet with standard carpet" width="700">
 
-The initial design had to account for rack dimensions, equipment depth, service access, power availability, cooling, cable routing, static protection, and future expansion.
-
----
-
-### Phase 2 — Room Preparation
-
-The existing carpet was removed so the room could be converted into a more appropriate environment for production IT equipment.
-
-<img src="images/room-prep-carpet-removed.jpg" alt="Carpet removed during server room preparation" width="700">
-
-The floor and room were then prepared for the infrastructure buildout.
-
-<img src="images/floor-preparation.jpg" alt="Floor preparation during server room conversion" width="700">
+The initial design had to account for rack dimensions, equipment depth, service access, power, cooling, cable routing, static protection, and future expansion.
 
 ---
 
-### Phase 3 — Static-Control Flooring
+## Phase 2 — Cooling Installation & Carpet Removal
 
-Static-safe flooring was incorporated to reduce electrostatic-discharge risk around sensitive electronic equipment.
+The room was prepared for infrastructure use by removing the original carpet and adding dedicated environmental control.
 
-<img src="images/static-safe-flooring.jpg" alt="Static-safe flooring installed in server room" width="700">
+<img src="images/02-cooling-and-carpet-removal.jpg" alt="Dedicated cooling installed and original carpet removed" width="700">
 
-Replacing standard office carpet was an important part of converting the room into a dedicated infrastructure space.
-
----
-
-### Phase 4 — Environmental Controls
-
-A dedicated ductless cooling system was incorporated so the server room temperature could be managed independently from the surrounding office environment.
-
-This was important because server, storage, networking, and power equipment generate continuous heat loads and require a more controlled operating environment.
+A dedicated ductless cooling system allows the room temperature to be controlled independently from normal office comfort requirements.
 
 ---
 
-### Phase 5 — Rack Deployment
+## Phase 3 — Floor Preparation
 
-A full-height open-frame equipment rack became the physical foundation of the new server room.
+After carpet removal, the underlying floor was cleaned and prepared for the static-control flooring system.
 
-<img src="images/rack-installation.jpg" alt="Full-height equipment rack installed in server room" width="700">
+<img src="images/03-floor-preparation.jpg" alt="Floor preparation before static-control flooring installation" width="700">
 
-Rack placement was chosen to preserve access to both the front and rear of the equipment while making efficient use of the available space.
-
-The rack established a structured location for:
-
-- Servers
-- Storage systems
-- Network equipment
-- Security appliances
-- Power distribution
-- Cable management
-- Future expansion
+This step prepared the room for a floor surface more appropriate for sensitive electronic equipment.
 
 ---
 
-### Phase 6 — Grounding, Power & Serviceability
+## Phase 4 — Static-Control Flooring & Rack Placement
 
-The room and rack were prepared for safe and maintainable equipment deployment.
+Static-safe flooring was installed and the full-height open-frame rack was positioned in the room.
 
-<img src="images/rack-grounding-and-power.jpg" alt="Rack grounding and power preparation" width="700">
+<img src="images/04-static-floor-and-rack-placement.jpg" alt="Static-safe flooring and full-height server rack installed" width="700">
 
-Rack-mounted power distribution was used to create a cleaner and more serviceable power layout than ad hoc device connections.
-
----
-
-### Phase 7 — Server Hardware Deployment
-
-Production server hardware was prepared, installed, and integrated into the rack.
-
-<img src="images/server-hardware-prep.jpg" alt="Enterprise server hardware preparation" width="700">
-
-<img src="images/server-installation.jpg" alt="Enterprise server installed in rack" width="700">
-
-The deployment included physical mounting, hardware preparation, network connectivity, power integration, and system validation.
+Rack placement was selected to preserve front and rear service access while making efficient use of the limited room dimensions.
 
 ---
 
-### Phase 8 — Rack Buildout
+## Phase 5 — ESD & Electrical Provisions
 
-The rack was progressively populated with compute, storage, networking, and supporting infrastructure.
+Grounding provisions were incorporated as part of the room's static-control and electrical preparation.
 
-<img src="images/rack-buildout.jpg" alt="Server room rack during infrastructure buildout" width="700">
+<img src="images/05-esd-grounding-provision.jpg" alt="Static-control grounding provision near server rack" width="700">
 
-Systems were brought online and validated as the build progressed.
-
-<img src="images/server-production-check.jpg" alt="Server hardware online during production validation" width="700">
+The objective was to create a physical environment better suited to sensitive IT equipment than the original carpeted office space.
 
 ---
 
-### Phase 9 — Network & Power Distribution
+## Phase 6 — Server Hardware Preparation
 
-Network switching and rack-mounted power distribution were incorporated into the final layout.
+Production server hardware was prepared before final rack integration.
 
-<img src="images/network-power-distribution.jpg" alt="Network switching, rack power distribution, and cable management" width="700">
+<img src="images/06-server-hardware-preparation.jpg" alt="Enterprise server hardware being prepared for deployment" width="700">
 
-Cable-management hardware was used to keep connections organized while retaining enough service slack for future maintenance and equipment replacement.
-
----
-
-### Phase 10 — Storage & Security Infrastructure
-
-Storage and network-security infrastructure were centralized in the server room.
-
-<img src="images/storage-and-security.jpg" alt="Centralized storage and network security infrastructure" width="700">
-
-The environment now provides a dedicated physical location for production compute, storage, networking, and security systems.
+Hardware preparation included inspection, component installation, mounting preparation, and readiness checks before the systems were placed into service.
 
 ---
 
-## Production Environment
+## Phase 7 — Initial Compute Deployment
 
-<img src="images/after-production-rack.jpg" alt="Completed dedicated production server room" width="700">
+The first production server was installed into the rack.
 
-The completed room includes:
+<img src="images/07-initial-server-installation.jpg" alt="Lenovo ThinkSystem server installed in rack" width="700">
+
+The deployment included physical mounting, network connectivity, power integration, and system validation.
+
+---
+
+## Phase 8 — Rack Buildout
+
+The rack was progressively populated with compute and supporting infrastructure.
+
+<img src="images/08-rack-buildout.jpg" alt="Server room rack during infrastructure buildout" width="700">
+
+This stage established the physical organization that would support the production environment.
+
+---
+
+## Phase 9 — System Validation
+
+Systems were powered on and validated as the deployment progressed.
+
+<img src="images/09-system-validation.jpg" alt="Server online during system validation" width="700">
+
+Validation included confirming hardware operation, network connectivity, and readiness before the environment was placed into regular production use.
+
+---
+
+## Phase 10 — Expanded Compute Deployment
+
+Additional server capacity was integrated as the rack buildout matured.
+
+<img src="images/10-expanded-compute-deployment.jpg" alt="Expanded rack-mounted compute infrastructure" width="700">
+
+The rack design retained space and service access for multiple production systems and future expansion.
+
+---
+
+## Phase 11 — Network Integration & Cable Management
+
+Network switching and structured cabling were incorporated into the rack.
+
+<img src="images/11-network-cabling.jpg" alt="Rack-mounted Ethernet switching and structured cabling" width="700">
+
+Cable-management hardware and defined routing paths improved physical organization and made connections easier to trace and service.
+
+---
+
+## Phase 12 — Storage & Network Security
+
+Centralized storage and network-security infrastructure were integrated into the server room.
+
+<img src="images/12-storage-and-security.jpg" alt="Synology storage and SonicWall network security infrastructure" width="700">
+
+The completed environment centralized major compute, storage, networking, and security functions into one managed physical location.
+
+---
+
+## Phase 13 — Production Environment
+
+The completed room transitioned into production use after approximately three months of planning, facilities preparation, hardware deployment, integration, and validation.
+
+<img src="images/13-production-environment.jpg" alt="Completed dedicated production server room" width="700">
+
+The production environment includes:
 
 - Enterprise server hardware
 - Network-attached storage
-- Network switching
+- Ethernet switching
 - Network security infrastructure
 - Rack-mounted power distribution
 - Structured cable-management hardware
@@ -216,8 +225,6 @@ The completed room includes:
 - Static-safe flooring
 - Local service and management capability
 - Capacity for future infrastructure growth
-
-The space transitioned from an unused office closet into active production infrastructure in approximately three months.
 
 ---
 
@@ -248,11 +255,11 @@ Server, storage, network, and security equipment now reside in a dedicated infra
 
 ### Environmental Stability
 
-Dedicated cooling allows the server room to be managed independently from normal office temperature requirements.
+Dedicated cooling allows the server room temperature to be managed independently from the surrounding office environment.
 
 ### Static Protection
 
-Replacing carpet with static-safe flooring created a more appropriate environment for sensitive electronic equipment.
+Replacing carpet with static-safe flooring created a more appropriate physical environment for sensitive electronic equipment.
 
 ### Maintainability
 
@@ -270,20 +277,21 @@ Available rack capacity and structured infrastructure provide room for additiona
 
 ## Project Timeline
 
-The project moved from concept to production use over approximately three months:
+The project moved from concept to production over approximately three months:
 
 1. Concept and requirements
-2. Room assessment
-3. Infrastructure design
-4. Room preparation
+2. Space assessment
+3. Cooling installation and room preparation
+4. Floor preparation
 5. Static-control flooring
-6. Environmental-control integration
-7. Rack deployment
-8. Power and cable management
-9. Server and storage deployment
-10. Network and security integration
-11. System validation
-12. Production use
+6. Rack placement and infrastructure preparation
+7. Server hardware preparation
+8. Initial compute deployment
+9. Rack buildout
+10. System validation
+11. Expanded compute deployment
+12. Network, storage, and security integration
+13. Production use
 
 ---
 
@@ -312,15 +320,15 @@ The project moved from concept to production use over approximately three months
 
 ## Project Takeaway
 
-This project required thinking beyond individual servers or network devices and designing the physical environment those systems depend on.
+This project required designing more than a rack. It required creating the physical environment that production infrastructure depends on.
 
-Cooling, power, static protection, equipment placement, service access, cable routing, and expansion capacity all affect the reliability and maintainability of production IT infrastructure.
+Cooling, power, static protection, equipment placement, service access, cable routing, and expansion capacity all affect the reliability and maintainability of server infrastructure.
 
-Taking the project from an empty office closet to an operational server room provided hands-on experience across the complete infrastructure lifecycle:
+Taking the project from an empty office closet to an operational server room provided hands-on experience across the full infrastructure lifecycle:
 
-**Planning → Facilities Preparation → Rack Deployment → Hardware Integration → Networking → Validation → Production**
+**Planning → Facilities Preparation → Environmental Controls → Rack Deployment → Hardware Integration → Networking → Validation → Production**
 
-The result is a dedicated infrastructure environment better suited to supporting current systems and future growth.
+The result is a dedicated infrastructure environment better suited to supporting the organization's current systems and future growth.
 
 ---
 
